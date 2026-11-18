@@ -175,6 +175,8 @@ npm run dev     # Starts on http://localhost:3000
    - Switch between **Applications**, **Seats**, and **Revenue**.
    - Click **"Export CSV"** and **"Export PDF"** to verify formatted report downloads.
 
+Deployed
+https://iem-admission-system-lyart.vercel.app/login
 ---
 
 ## 🏛️ Static Helpdesk & Campus Information
